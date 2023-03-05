@@ -1,6 +1,7 @@
 # 👋 Hi, i'm Valerii
 - Creative dev and digital designer
-- 🔭 Currently working on a writing toolchain product [Konspekt](https://github.com/dadaismee/konspekt-website) <br>🌱 Learning React Hooks and Typescript right now<br>
+- 🔭 Currently working on a writing toolchain product [Konspekt](https://github.com/dadaismee/konspekt-website)
+- 🌱 Learning React Hooks and Typescript right now<br>
 
 
 ## 🌐 Socials:
