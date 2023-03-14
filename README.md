@@ -1,7 +1,7 @@
 # 👋 Hi, i'm Valerii
 - PhD student in philosophy of science at HSE Uni, Moscow
 - Creative dev and wannabe digital designer
-
+---
 - 📝 Writing a [PhD thesis on evolutionary foundations of social institutions](https://github.com/dadaismee/phd_thesis)
 - 🔭 Working on an academic writing toolchain [Konspekt](https://github.com/dadaismee/konspekt-website)
 - 🌱 Learning scintific Python, React Hooks and Typescript right now<br>
